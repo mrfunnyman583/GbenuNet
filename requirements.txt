@@ -1,0 +1,6 @@
+pcapy
+python-whois
+pyfiglet
+qrcode[pil]
+netifaces
+scapy
